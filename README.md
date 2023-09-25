@@ -55,6 +55,7 @@ git clone https://github.com/Kiana8181/MakimaBackend-EnglishVersion.git
 git clone git@github.com:Kiana8181/MakimaBackend-EnglishVersion.git
 ```
 <br/>
+<br/>
 
 2. Create a Virtual Environment
 
@@ -69,6 +70,9 @@ For Windows users:
 python -m venv venv
 venv\Scripts\activate
 ```
+<br/>
+<br/>
+
 3. Install Requirements
 
 Install the project dependencies using pip:
@@ -76,6 +80,9 @@ Install the project dependencies using pip:
 ```sh
 pip install -r requirements.txt
 ```
+<br/>
+<br/>
+
 4. Make Migrations
 
 For Linux users:
@@ -89,6 +96,9 @@ For Windows users:
 python manage.py makemigrations
 python manage.py migrate
 ```
+<br/>
+<br/>
+
 5. Create a Superuser
 
 For Linux users:
@@ -99,7 +109,10 @@ python3 manage.py createsuperuser
 For Windows users:
 ```sh
 python manage.py createsuperuser
-``` 
+```
+<br/>
+<br/>
+
 6. Final Checks
 
 Start the development server:
