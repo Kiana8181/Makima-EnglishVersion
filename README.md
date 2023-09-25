@@ -54,8 +54,8 @@ git clone https://github.com/Kiana8181/MakimaBackend-EnglishVersion.git
 ```sh
 git clone git@github.com:Kiana8181/MakimaBackend-EnglishVersion.git
 ```
-<br />
 
+     
 2. Create a Virtual Environment
 
 For Linux users:
