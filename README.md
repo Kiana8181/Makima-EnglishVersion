@@ -18,24 +18,15 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
 ![Screen Shot](images/screenshot.png)
 
 This backend project is a comprehensive survey platform designed for university professors, students, and institutions. It facilitates registration for universities, professors, and students while empowering universities to verify and confirm their affiliated professors. Professors, once approved, can seamlessly register their courses, upload course materials, and provide relevant explanations within the system. Students, in turn, can explore and enroll in courses offered by professors, access course resources, and express their feedback and opinions through ratings and reviews.
-
-## Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Getting Started
 
@@ -127,32 +118,3 @@ python manage.py runserver
 ```
 
 You can now access the Makima backend at http://localhost:8000/.
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-## Contributing
-
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Authors
-
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
-
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
-* []()
