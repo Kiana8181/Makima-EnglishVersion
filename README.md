@@ -70,6 +70,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
+    
 3. Install Requirements
 
 Install the project dependencies using pip:
@@ -79,6 +80,7 @@ pip install -r requirements.txt
 ```
 
 
+   
 4. Make Migrations
 
 For Linux users:
@@ -94,6 +96,7 @@ python manage.py migrate
 ```
 
 
+     
 5. Create a Superuser
 
 For Linux users:
@@ -107,6 +110,7 @@ python manage.py createsuperuser
 ```
 
 
+    
 6. Final Checks
 
 Start the development server:
