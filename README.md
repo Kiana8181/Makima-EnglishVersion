@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/jnjl;l../Makima">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Makima Backend</h3>
