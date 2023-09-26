@@ -58,6 +58,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     "https://makima-zue4.onrender.com",
 ]
+CSRF_TRUSTED_ORIGINS = ['"https://makima-zue4.onrender.com"']
 
 ROOT_URLCONF = 'Makima.urls'
 
