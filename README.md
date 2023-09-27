@@ -83,6 +83,12 @@ pip install -r requirements.txt
 <br/>
 <br/>
 
+In Django projects, the db.sqlite3 file is typically included in the Git Ignore list. Consequently, in such cases, you would need to follow steps 4 and 5 to initialize the database. However, in this specific project, I've chosen not to include db.sqlite3 in the Git Ignore list in order to provide some default data.
+
+If you wish to create the database from scratch, you can start by deleting the db.sqlite3 file from your project directory after cloning it, and then proceed to complete steps 4 and 5 to set up the database.
+
+<br/>
+
 4. Make Migrations
 
 For Linux users:
