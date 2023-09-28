@@ -32,6 +32,8 @@ This backend project is a comprehensive survey platform designed for university 
 Makima's frontend is implemented with React. You can find the frontend repository here:
 [Frontend Repository](https://github.com/Kiana8181/MakimaFrontend-EnglishVersion)
 
+<br/>
+
 ## Getting Started
 
 Follow these steps to clone and set up the Makima project on your local machine:
