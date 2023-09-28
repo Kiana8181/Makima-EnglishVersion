@@ -28,6 +28,10 @@
 
 This backend project is a comprehensive survey platform designed for university professors, students, and institutions. It facilitates registration for universities, professors, and students while empowering universities to verify and confirm their affiliated professors. Professors, once approved, can seamlessly register their courses, upload course materials, and provide relevant explanations within the system. Students, in turn, can explore and enroll in courses offered by professors, access course resources, and express their feedback and opinions through ratings and reviews.
 
+### Backend Repository
+Makima's frontend is implemented with React. You can find the frontend repository here:
+[Frontend Repository](https://github.com/Kiana8181/MakimaFrontend-EnglishVersion)
+
 ## Getting Started
 
 Follow these steps to clone and set up the Makima project on your local machine:
